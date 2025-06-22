@@ -1,8 +1,3 @@
----
-layout: default
-title: "Weijun Luo | Resume"
----
-
 # Weijun Luo
 
 📞 (672) 999-9356  
