@@ -28,36 +28,34 @@ _Shanghai, China | 09/2009 – 07/2013_
 ## 💼 Work Experience
 
 **Scale AI, USA**  
-*AI Training Consultant*: Operation staff for strategic projects in COT and context scaling
-03/2025 – Present  
+*AI Training Consultant* — 03/2025 – Present  
+Operation staff for strategic projects in COT and context scaling
 
-**Scale AI, USA**    
-*Queue Manager*: Project lead for PhD-level data labeling
-10/2023 – 03/2025  
+**Scale AI, USA**  
+*Queue Manager* — 10/2023 – 03/2025  
+Project lead for PhD-level data labeling
 
 **Mayson Science Inc. (Toronto)**  
-*Founder*  
-02/2025 – Present
+*Founder* — 02/2025 – Present
 
 **ThinkCX Inc. (Vancouver)**  
-*Data Scientist / Data Engineer (AWS Certified)*: Designed and developed a population-wide wireless churning solution
-02/2023 – 12/2024  
+*Data Scientist / Data Engineer (AWS Certified)* — 02/2023 – 12/2024  
+Designed and developed a population-wide wireless churning solution
 
-**Signify Research NA (Burlington, MA)**  
-*ML Research Intern*  
-05/2022 – 08/2022
+**Signify Research North America (Burlington, MA)**  
+*Machine Learning Research Intern* — 05/2022 – 08/2022
 
 **Boston University**  
-*Research Fellow*: Published six first-author research articles with average IF=11
-09/2017 – 03/2023  
+*Research Fellow* — 09/2017 – 03/2023  
+Published six first-author research articles with average IF = 11
 
-**Oak Ridge National Lab (TN)**  
-*Visiting Researcher, CNMS*  
-10/2021 – 11/2022
+**Oak Ridge National Laboratory (TN)**  
+*Visiting Researcher, CNMS* — 10/2021 – 11/2022
 
 **University of British Columbia**  
-*Research Assistant*  
-01/2015 – 04/2017  
+*Research Assistant* — 01/2015 – 04/2017  
+Sponsored by Texas Instruments on dopant diffusion in strained SiGe HBTs
+
 
 ---
 
