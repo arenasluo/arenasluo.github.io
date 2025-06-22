@@ -1,8 +1,6 @@
 # Weijun Luo
 
-📞 (672) 999-9356  
 📍 Toronto, ON, Canada  
-✉️ wluo79@gatech.com  
 🔗 [GitHub](https://github.com/arenasluo) | [ORCID](https://orcid.org/0000-0002-6048-5164) | [Google Scholar](https://scholar.google.ca/citations?user=-ws6WvsAAAAJ&hl=en)
 
 ---
