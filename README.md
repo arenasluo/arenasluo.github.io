@@ -33,7 +33,7 @@ Operation staff for strategic projects in COT and context scaling
 
 **Scale AI, USA**  
 *Queue Manager* : 10/2023 – 03/2025  
-Project lead for PhD-level data labeling
+Project lead for multiple reasoning projects in STEM fields.
 
 **Mayson Science Inc. (Toronto)**  
 *Founder* : 02/2025 – Present
