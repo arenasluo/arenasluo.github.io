@@ -1,13 +1,6 @@
----
-layout: default
-title: "Weijun Luo – Resume"
----
-
 # Weijun Luo
 
 **Location:** Toronto, ON, Canada  
-**Phone:** (672) 999-9356  
-**Email:** wluo79@gatech.com  
 **GitHub:** [arenasluo](https://github.com/arenasluo)  
 **ORCID:** [0000-0002-6048-5164](https://orcid.org/0000-0002-6048-5164)  
 **Google Scholar:** [Link](https://scholar.google.ca/citations?user=-ws6WvsAAAAJ&hl=en)  
