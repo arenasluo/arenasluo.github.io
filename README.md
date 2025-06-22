@@ -8,19 +8,19 @@
 ## 🎓 Education
 
 **Georgia Institute of Technology**  
-**M.Sc., Computer Science (Machine Learning Track)**
+*M.Sc., Computer Science (Machine Learning Track)*
 _Atlanta, GA, USA | 09/2024 – 08/2026_
 
 **Boston University**  
-**Ph.D., Physical Chemistry**  
+*Ph.D., Physical Chemistry* 
 _Boston, MA, USA | 09/2017 – 05/2023_
 
 **University of British Columbia**  
-**M.A.Sc, Applied Physics (Semiconductor Materials Engineering)**  
+*M.A.Sc, Materials Engineering*  
 _Vancouver, BC, Canada | 01/2015 – 05/2017_
 
 **Fudan University**  
-**B.Sc, Applied Physics**  
+*B.Sc, Applied Physics*  
 _Shanghai, China | 09/2009 – 07/2013_
 
 ---
