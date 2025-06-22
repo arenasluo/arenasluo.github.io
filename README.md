@@ -47,7 +47,8 @@ Designed and developed a population-wide wireless churning solution
 
 **Boston University**  
 *Research Fellow* — 09/2017 – 03/2023  
-Published six first-author research articles with average IF = 11
+1. Published six first-author research articles with average IF = 11; 
+2. Developed **SpecSmartDecov**: An Automated Highthroughput Optial Spectra Analysis Matlab Package
 
 **Oak Ridge National Laboratory (TN)**  
 *Visiting Researcher, CNMS* — 10/2021 – 11/2022
