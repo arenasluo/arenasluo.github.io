@@ -1,111 +1,98 @@
----
-layout: default
-title: "Weijun Luo | Resume"
----
-
 # Weijun Luo
 
-📍 Toronto, ON, Canada  
+Toronto, ON, Canada  
 🔗 [GitHub](https://github.com/arenasluo) | [ORCID](https://orcid.org/0000-0002-6048-5164) | [Google Scholar](https://scholar.google.ca/citations?user=-ws6WvsAAAAJ&hl=en)
 
 ---
 
-## 🎓 Education
+## EDUCATION
 
-**Georgia Institute of Technology**  
-*M.Sc., Computer Science (Machine Learning Track)*  
-_Atlanta, GA, USA | 09/2024 – 08/2026_
+**Georgia Institute of Technology** — *Atlanta, GA, USA*  
+*M.Sc., Computer Science (Machine Learning Track)* — 09/2024–08/2026
 
-**Boston University**  
-*Ph.D., Physical Chemistry*  
-_Boston, MA, USA | 09/2017 – 05/2023_
+**Boston University** — *Boston, MA, USA*  
+*Ph.D., Physical Chemistry* — 09/2017–05/2023
 
-**University of British Columbia**  
-*M.A.Sc, Applied Physics (Semiconductor Materials Engineering)*  
-_Vancouver, BC, Canada | 01/2015 – 05/2017_
+**University of British Columbia** — *Vancouver, BC, Canada*  
+*M.A.Sc, Applied Physics (Semiconductor Materials Engineering)* — 01/2015–05/2017
 
-**Fudan University**  
-*B.Sc, Applied Physics*  
-_Shanghai, China | 09/2009 – 07/2013_
+**Fudan University** — *Shanghai, China*  
+*B.Sc, Applied Physics* — 09/2009–07/2013
 
 ---
 
-## 💼 Work Experience
+## WORK EXPERIENCE
 
-**Scale AI (Remote, Toronto)**  
-*AI Training Consultant*  
-03/2025 – Present  
-- Operation staff for strategic projects in COT and context scaling
+**Scale AI, USA** — *Remote, Toronto, Canada*  
+**AI Training Consultant** (affiliated to SF HQ) — 03/2025–Present  
+Operation staff for strategic projects in COT and context scaling
 
-**Scale AI (San Francisco HQ)**  
-*Queue Manager*  
-10/2023 – 03/2025  
-- Project lead for PhD-level data labeling
+**Scale AI, USA** — *San Francisco, CA*  
+**Queue Manager** (affiliated to SF HQ) — 10/2023–03/2025  
+Project lead for PhD-level data labeling
 
-**Mayson Science Inc. (Toronto)**  
-*Founder*  
-02/2025 – Present
+**Mayson Science Inc., Canada** — *Toronto*  
+**Founder** — 02/2025–Present
 
-**ThinkCX Inc. (Vancouver)**  
-*Data Scientist / Data Engineer (AWS Certified)*  
-02/2023 – 12/2024  
-- Designed and developed a population-wide wireless churning solution
+**ThinkCX Inc.** — *Vancouver, BC, Canada*  
+**Data Scientist / Data Engineer (AWS Certified)** — 02/2023–12/2024  
+Design and develop population-wide wireless churning solution
 
-**Signify Research NA (Burlington, MA)**  
-*ML Research Intern*  
-05/2022 – 08/2022
+**Signify Research North America** — *Burlington, MA, USA*  
+**Machine Learning Research Intern** — 05/2022–08/2022
 
-**Boston University**  
-*Research Fellow*  
-09/2017 – 03/2023  
-- Published six first-author research articles with average IF=11
+**Boston University** — *Boston, MA, USA*  
+**Research Fellow** — 09/2017–03/2023  
+Published six first-author research articles with average IF = 11
 
-**Oak Ridge National Lab (TN)**  
-*Visiting Researcher, CNMS*  
-10/2021 – 11/2022
+**Oak Ridge National Laboratory** — *Oak Ridge, TN*  
+**Visiting Researcher at CNMS** — 10/2021–11/2022
 
-**University of British Columbia**  
-*Research Assistant*  
-01/2015 – 04/2017  
-- Sponsored by TI on SiGe HBTs
+**University of British Columbia** — *Vancouver, BC, Canada*  
+**Research Assistant** — 01/2015–04/2017  
+Sponsored by Texas Instruments (TI, USA) on dopant diffusion in strained SiGe hetero-bipolar junction transistors
 
 ---
 
-## 💰 Funding
+## FUNDING
 
-- **NSF CAREER** – Surface-Enhanced Raman Scattering | [Link](https://app.dimensions.ai/details/grant/grant.8966022)  
-  *2020–2025*
+- **NSF CAREER Award**: *Deciphering 2D, Crystal-Mediated, Surface-Enhanced Raman Scattering for Quantitative Analysis*  
+  2020-03-01 to 2025-02-28  
+  [View grant](https://app.dimensions.ai/details/grant/grant.8966022)
 
-- **NSF ENG** – Graphene Plasmonic Nanostructures | [Link](https://app.dimensions.ai/details/grant/grant.970547)  
-  *2021–2024*
-
----
-
-## 📚 Selected Publications
-
-1. *Nano Letters (2023)* — "Improving Strain-localized GaSe Single Photon Emitters with Electrical Doping" (IF=11)  
-2. *ACS Nano (2023)* — "Imaging Strain-Localized Single-Photon Emitters in Layered GaSe" (IF=18)  
-3. *ACS Photonics (2023)* — "Strain-Induced Single-Photon Emitters in Multilayer GaSe" (IF=7)  
-4. *Applied Physics Reviews (2022)* — "d–d emission in NiPS3" (IF=19)  
-5. *ACS Appl. Nano Mater. (2022)* — "Strain-Induced Diode Action in WSe2" (IF=7)  
-6. *ACS Phys. Chem. Au (2022)* — "Anisotropic Raman of PdSe2" (IF=3)  
-7. *Adv. Funct. Mater. (2020)* — "Phonon Response in PdSe2" (IF=20)  
-8. *Adv. Mater. (2019)* — "Domain Architecture in Mo2C" (IF=30)  
-9. *Nanotechnology (2017)* — "Sublimation of Few-Layer Black Phosphorus" (IF=4)
+- **NSF ENG**: *Graphene Plasmonic Nanostructures for Terahertz Light Emission*  
+  2021-06-15 to 2024-05-31  
+  [View grant](https://app.dimensions.ai/details/grant/grant.970547)
 
 ---
 
-## 🎤 Conference Talks
+## SELECTED PUBLICATIONS
 
-- **CLEO 2023** — Electrically Tunable GaSe Emitters  
-- **APS 2023** — Voltage-Controlled GaSe Photon Sources  
-- **APS 2022** — Defect-Related Emitters in GaSe  
-- **ACS 2022** — Raman Spectroscopy on PdSe2  
-- **MRS 2016** — Sublimation of Black Phosphorus
+1. *Nano Letters*, 2023 — "Improving Strain-localized GaSe Single Photon Emitters with Electrical Doping." (IF=11)  
+2. *ACS Nano*, 2023 — "Imaging Strain-Localized Single-Photon Emitters in Layered GaSe below the Diffraction Limit." (IF=18)  
+3. *ACS Photonics*, 2023 — "Deterministic Localization of Strain-Induced Single-Photon Emitters in Multilayer GaSe." (IF=7)  
+4. *Applied Physics Reviews*, 2022 — "Charge-transfer-enhanced d–d emission in antiferromagnetic NiPS3." (IF=19)  
+5. *ACS Applied Nano Materials*, 2022 — "Charge Separation in Monolayer WSe2 by Strain Engineering." (*equal contribution) (IF=7)  
+6. *ACS Physical Chemistry Au*, 2022 — "Excitation-Dependent Anisotropic Raman Response of PdSe2." (IF=3)  
+7. *Advanced Functional Materials*, 2020 — "Anisotropic phonon response of PdSe2 under uniaxial strain." (IF=20)  
+8. *Advanced Materials*, 2019 — "Probing the domain architecture in 2D α‐Mo2C via polarized Raman spectroscopy." (IF=30)  
+9. *Nanotechnology*, 2017 — "Thermal sublimation: a scalable and controllable thinning method for few-layer black phosphorus." (IF=4)
 
 ---
 
-## 🏅 Awards
+## ORAL PRESENTATIONS AT INTERNATIONAL CONFERENCES
 
-- Molecular Foundry Award, LBNL (2019)  
-- CNMS User Awards, ORNL (2020, 2022, 2023)
+1. “Electrically Tunable Brightness and Single Photon Purity in Multilayer GaSe” — CLEO 2023  
+2. "Voltage-controlled GaSe single photon emitters." — APS 2023  
+3. “Near-deterministic generation of defect-related emitters in GaSe.” — APS 2022  
+4. "Probe the anisotropic Raman response of atomically-thin PdSe2 with 13 excitation wavelengths." — ACS 2022  
+5. “Thermal sublimation: a scalable and controllable thinning method for the fabrication of few-layer black phosphorus.” — MRS 2016
+
+---
+
+## NATIONAL LEVEL HONORS AND AWARDS
+
+1. Molecular Foundry User Proposal Award, Lawrence Berkeley National Lab, DOE (2019)  
+2. CNMS User Proposal Award, Oak Ridge National Lab, DOE (2020)  
+3. CNMS User Proposal Award, Oak Ridge National Lab, DOE (2022)  
+4. CNMS User Proposal Award, Oak Ridge National Lab, DOE (2023)
