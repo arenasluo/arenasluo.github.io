@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Weijun Luo | Resume"
+---
+
 # Weijun Luo
 
 📍 Toronto, ON, Canada  
