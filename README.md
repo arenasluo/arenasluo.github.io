@@ -9,23 +9,19 @@
 
 **Georgia Institute of Technology**  
 *M.Sc., Computer Science (Machine Learning Track)*  
-Atlanta, GA, USA  
-09/2024 – 08/2026
+Atlanta, GA, USA | 09/2024 – 08/2026
 
 **Boston University**  
 *Ph.D., Physical Chemistry*  
-Boston, MA, USA  
-09/2017 – 05/2023
+Boston, MA, USA | 09/2017 – 05/2023
 
 **University of British Columbia**  
 *M.A.Sc, Materials Engineering*  
-Vancouver, BC, Canada  
-01/2015 – 05/2017
+Vancouver, BC, Canada | 01/2015 – 05/2017
 
 **Fudan University**  
 *B.Sc, Applied Physics*  
-Shanghai, China  
-09/2009 – 07/2013
+Shanghai, China | 09/2009 – 07/2013
 
 
 ---
