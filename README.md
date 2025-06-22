@@ -27,11 +27,11 @@ _Shanghai, China | 09/2009 – 07/2013_
 
 ## 💼 Work Experience
 
-**Scale AI (Remote, Toronto)**  
+**Scale AI, USA**  
 *AI Training Consultant*: Operation staff for strategic projects in COT and context scaling
 03/2025 – Present  
 
-**Scale AI (San Francisco HQ)**  
+**Scale AI, USA**    
 *Queue Manager*: Project lead for PhD-level data labeling
 10/2023 – 03/2025  
 
