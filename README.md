@@ -59,16 +59,6 @@ Dopant diffusion in strained SiGe HBTs
 
 ---
 
-## 💰 Funding
-
-- **NSF CAREER** – Surface-Enhanced Raman Scattering | [Link](https://app.dimensions.ai/details/grant/grant.8966022)  
-  *2020–2025*
-
-- **NSF ENG** – Graphene Plasmonic Nanostructures | [Link](https://app.dimensions.ai/details/grant/grant.970547)  
-  *2021–2024*
-
----
-
 ## 📚 Selected Publications
 
 ## SELECTED PUBLICATIONS
@@ -95,7 +85,16 @@ Dopant diffusion in strained SiGe HBTs
 5. “Thermal sublimation: a scalable and controllable thinning method for the fabrication of few-layer black phosphorus.” — **MRS 2016**
 
 ---
+## 💰 Funding
 
+- **NSF CAREER** – Surface-Enhanced Raman Scattering | [Link](https://app.dimensions.ai/details/grant/grant.8966022)  
+  *2020–2025*
+
+- **NSF ENG** – Graphene Plasmonic Nanostructures | [Link](https://app.dimensions.ai/details/grant/grant.970547)  
+  *2021–2024*
+
+---
 ## 🏅 Awards
 - CNMS User Awards, ORNL (2020, 2022, 2023)
-- Molecular Foundry User Award, LBNL (2019)  
+- Molecular Foundry User Award, LBNL (2019)
+- Gold medal, The China Adolescents Science and Technology Innovation Contest (CASTIC), 2006
