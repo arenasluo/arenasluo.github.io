@@ -61,8 +61,6 @@ Dopant diffusion in strained SiGe HBTs
 
 ## 📚 Selected Publications
 
-## SELECTED PUBLICATIONS
-
 1. **Weijun Luo**, et al. *"Improving Strain-localized GaSe Single Photon Emitters with Electrical Doping."* Nano Letters 23, no. 21 (2023): 9740–9747. (IF=11)  
 2. **Weijun Luo**, et al. *"Imaging Strain-Localized Single-Photon Emitters in Layered GaSe below the Diffraction Limit."* ACS Nano (2023). (IF=18)  
 3. **Weijun Luo**, et al. *"Deterministic Localization of Strain-Induced Single-Photon Emitters in Multilayer GaSe."* ACS Photonics 10, no. 8 (2023): 2530–2539. (IF=7)  
