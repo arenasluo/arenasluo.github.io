@@ -1,7 +1,7 @@
 # Weijun Luo, PhD
 
 📍 Toronto, ON, Canada  
-🔗 [GitHub](https://github.com/arenasluo) | [ORCID](https://orcid.org/0000-0002-6048-5164) | [Google Scholar](https://scholar.google.ca/citations?user=-ws6WvsAAAAJ&hl=en)
+🔗 [GitHub](https://github.com/arenasluo) | [ORCID](https://orcid.org/0000-0002-6048-5164) | [Google Scholar](https://scholar.google.ca/citations?user=-ws6WvsAAAAJ&hl=en) |  [Linkedin](https://www.linkedin.com/in/weijun-eric-luo/)
 
 ---
 
