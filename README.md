@@ -87,10 +87,13 @@ Dopant diffusion in strained SiGe HBTs
 ## 💰 Funding
 
 - **NSF CAREER** – *Deciphering 2-Dimensional, Crystal-Mediated, Surface-Enhanced Raman Scattering for Quantitative Analysis*  
-  [Link]([https://app.dimensions.ai/details/grant/grant.8966022]) | *2020–2025*
+  [https://app.dimensions.ai/details/grant/grant.8966022](https://app.dimensions.ai/details/grant/grant.8966022)  
+  *2020–2025*
 
 - **NSF ENG** – *Graphene Plasmonic Nanostructures for Terahertz Light Emission*  
-  [Link]([https://app.dimensions.ai/details/grant/grant.970547]) | *2021–2024*
+  [https://app.dimensions.ai/details/grant/grant.970547](https://app.dimensions.ai/details/grant/grant.970547)  
+  *2021–2024*
+
 
 ---
 
