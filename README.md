@@ -43,7 +43,7 @@ Project lead for multiple reasoning projects in STEM fields
 *Data Scientist / Data Engineer (AWS Certified)* — 02/2023 – 12/2024  
 Designed and developed a population-wide wireless churning solution
 
-**Signify Research North America. (Burlington, MA, USA)**  
+**Signify Research (formerly known as Philips Lighting) North America. (Burlington, MA, USA)**  
 *Machine Learning Research Intern* — 05/2022 – 08/2022
 
 **Boston University. (Boston, MA, USA)**  
