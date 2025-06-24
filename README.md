@@ -76,11 +76,11 @@ Dopant diffusion in strained SiGe HBTs
 
 ## 🎤 Conference Talks
 
-1. “Electrically Tunable Brightness and Single Photon Purity in Multilayer GaSe.” — **CLEO 2023**  
-2. "Voltage-controlled GaSe single photon emitters." — **APS 2023**  
-3. “Near-deterministic generation of defect-related emitters in GaSe.” — **APS 2022**  
-4. "Probe the anisotropic Raman response of atomically-thin pentagonal PdSe2 with 13 excitation wavelengths." — **ACS 2022**  
-5. “Thermal sublimation: a scalable and controllable thinning method for the fabrication of few-layer black phosphorus.” — **MRS 2016**
+1. “Electrically Tunable Brightness and Single Photon Purity in Multilayer GaSe.” — **CLEO (Conference on Lasers and Electro-Optics, Optical Society of America Annual Meeting), 2023**  
+2. "Voltage-controlled GaSe single photon emitters." — **APS (American Physical Society Annual Meeting), 2023**  
+3. “Near-deterministic generation of defect-related emitters in GaSe.” — **APS, 2022**  
+4. "Probe the anisotropic Raman response of atomically-thin pentagonal PdSe2 with 13 excitation wavelengths." — **ACS (American Chemical Society Annual Meeting), 2022**  
+5. “Thermal sublimation: a scalable and controllable thinning method for the fabrication of few-layer black phosphorus.” — **MRS (Materials Research Society Annual Meeting), 2016**
 
 ---
 
