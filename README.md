@@ -29,8 +29,9 @@ Shanghai, China | 09/2009 – 07/2013
 ## 💼 Work Experience
 **Scale AI, USA.**  
 *Applied ML Engineer* — 01/2026 – Present  
-I focus on data quality eval, failure model analysis, and scale up for autonomous quality control
-Authored ScaleLab's blogpost:
+I focus on data quality eval, failure model analysis, and scale up for autonomous quality control.
+
+I co-authored ScaleLab's blogpost:
 1. [Insights Generator: Automated Failure Mode Analysis for Agent](https://labs.scale.com/blog/insights-generator) 
 2. [HiL-Dynamics: Understanding Agents That Don’t Know What They Don’t Know](https://labs.scale.com/blog/hil-dynamics)
 
