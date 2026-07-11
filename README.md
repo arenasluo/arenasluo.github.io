@@ -27,10 +27,16 @@ Shanghai, China | 09/2009 – 07/2013
 ---
 
 ## 💼 Work Experience
+**Scale AI, USA.**  
+*Applied ML Engineer* — 01/2026 – Present  
+I focus on data quality eval, failure model analysis, and scale up for autonomous quality control
+Authored ScaleLab's blogpost:
+1. [Insights Generator: Automated Failure Mode Analysis for Agent](https://labs.scale.com/blog/insights-generator) 
+2. [HiL-Dynamics: Understanding Agents That Don’t Know What They Don’t Know](https://labs.scale.com/blog/hil-dynamics)
 
 **Scale AI, USA.**  
 *AI Training Consultant* — 03/2025 – Present  
-Operation staff for strategic projects in COT and context scaling
+Develop PhD-level STEM / research datasets to advance next-generation LLMs that can drive rigorous, high-impact scientific discovery.
 
 **Scale AI, USA.**  
 *Queue Manager* — 10/2023 – 03/2025  
