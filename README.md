@@ -35,6 +35,8 @@ I co-authored ScaleLab's blogpost:
 1. [Insights Generator: Automated Failure Mode Analysis for Agent](https://labs.scale.com/blog/insights-generator) 
 2. [HiL-Dynamics: Understanding Agents That Don’t Know What They Don’t Know](https://labs.scale.com/blog/hil-dynamics)
 
+I developed [HiL-Dynamics tool](https://github.com/melfeki-11/HiL-Dynamics)
+
 **Scale AI, USA.**  
 *AI Training Consultant* — 03/2025 – Present  
 Develop PhD-level STEM / research datasets to advance next-generation LLMs that can drive rigorous, high-impact scientific discovery.
