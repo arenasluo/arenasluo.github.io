@@ -37,6 +37,30 @@ I co-authored ScaleLab's blogpost:
 
 I developed [HiL-Dynamics tool](https://github.com/melfeki-11/HiL-Dynamics)
 
+------------------
+
+At Scale AI's GenAI org and Applied ML team, I primarily focus on data quality eval, failure model analysis, and scale up for autonomous quality control. The followings are the projects that I led and completed. 
+
+1. Developed automate-hillclimb package for automated optimization of quality checks against production data; Led real-time / post-completion checks development and training
+
+2. Devleoped Video-OCR package for OCR+LLM transcription of text from videos
+
+3. Built end-to-end pipeline for evaluating contributor justification quality for universe generation.
+
+4. Developed a container-free pipeline for running SWE-Bench Pro tasks with Mini-SWE-Agent: collecting agentic trajectories, and evaluating them with LLM judge via Inspect AI, including a Streamlite web app with background job execution, live trajectory streaming, and job history tracking.
+
+5. Built Hil-Dynamics (https://github.com/melfeki-11/HiL-Dynamics; https://arxiv.org/abs/2604.09408): it measures how frontier agents behave when a task is underspecified.
+
+6. Major developer of Scale's Lighthouse / Insights platform for benchmark and delivery data analysis and insights generation: led the development of failure mode analysis.
+
+7. Major developer of AgenticDq platform for on-demand and automated generation of quality checks for production queues.
+
+8. Built an in-house package for enterprise data anonymization and redaction.
+
+9. First-author and core developer of Process-verifier / Reward-hacking measurement tool (Manuscript ready for submission).
+
+10. Builder of E2E autopatcher for benchmark loopholes/hackable surfaces and production data for delivery
+
 **Scale AI, USA.**  
 *AI Training Consultant* — 03/2025 – Present  
 Develop PhD-level STEM / research datasets to advance next-generation LLMs that can drive rigorous, high-impact scientific discovery.
