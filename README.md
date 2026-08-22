@@ -36,6 +36,7 @@ I authored and co-authored ScaleLab's blogpost:
 1. First-author and core developer of Process-verifier / Reward-hacking measurement tool (Manuscript ready for submission).
 2. [Insights Generator: Automated Failure Mode Analysis for Agent](https://labs.scale.com/blog/insights-generator) 
 3. [HiL-Dynamics: Understanding Agents That Don’t Know What They Don’t Know](https://labs.scale.com/blog/hil-dynamics). I developed [HiL-Dynamics tool](https://github.com/melfeki-11/HiL-Dynamics)
+4. [Who Grades the Graders? Rethinking Verifier Design for Computer-Use Agents]
 
 **II. Product development at GenAI Applied ML @ Scale AI**
 
