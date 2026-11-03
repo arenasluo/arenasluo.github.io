@@ -8,7 +8,7 @@
 ## 🎓 Education
 
 **Georgia Institute of Technology**  
-*M.Sc., Computer Science (Machine Learning Track)*  
+*M.Sc., Computer Science (Artificial Intellgence Track)*  
 Atlanta, GA, USA | 09/2024 – 08/2026
 
 **Boston University**  
