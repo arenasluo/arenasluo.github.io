@@ -32,7 +32,7 @@ Shanghai, China | 09/2009 – 07/2013
 
 **I. Research at GenAI Applied ML @ Scale AI**:
 
-I authored and co-authored ScaleLab's blogpost:
+I authored the following Scale Lab's research papers and blogposts:
 1. Leader & First-author of Scale AI's [AI4SCI benchmark](https://scaleapi-genai-ai4sci-benchmark--ai4sci-benchmark-web.us-east.modal.run/).
 2. First-author and core developer of Process-verifier / Reward-hacking measurement tool ([Maintaining Benchmarks Against Increasingly Capable Agents: Detection and Remediation of Unearned Passes](https://arxiv.org/abs/2609.34262)).
 3. First-author and core developer of Scale AI's autopatcher, applied to [SWE-Bench-Pro V2](https://labs.scale.com/blog/swe-bench-pro-v2).
