@@ -39,7 +39,6 @@ I authored and co-authored ScaleLab's blogpost:
 4. Co-author of [Who Grades the Graders? Rethinking Verifier Design for Computer Use Agents](https://labs.scale.com/blog/verifier-design-for-cua) and core developer of Scale AI's autopatcher.
 5. [Insights Generator: Automated Failure Mode Analysis for Agent](https://labs.scale.com/blog/insights-generator) 
 6. [HiL-Dynamics: Understanding Agents That Don’t Know What They Don’t Know](https://labs.scale.com/blog/hil-dynamics). I developed [HiL-Dynamics tool](https://github.com/melfeki-11/HiL-Dynamics)
-7. [Who Grades the Graders? Rethinking Verifier Design for Computer-Use Agents]
 
 **II. Product development at GenAI Applied ML @ Scale AI**
 
